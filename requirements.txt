@@ -4,3 +4,4 @@ djangorestframework
 dj-rest-auth
 django-allauth[with_social]
 djangorestframework-simplejwt
+drf-yasg
