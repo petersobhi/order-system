@@ -4,4 +4,8 @@ djangorestframework
 dj-rest-auth
 django-allauth[with_social]
 djangorestframework-simplejwt
+Pillow
 drf-yasg
+django-money[exchange]
+factory_boy
+coverage
